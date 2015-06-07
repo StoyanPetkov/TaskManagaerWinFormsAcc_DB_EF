@@ -1,0 +1,25 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\TaskManagaerADO.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.Properties.Resources.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.csproj.GenerateResource.Cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\TaskManagaerADO.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\TaskManagaerADO.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.Add_EditTaskForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.Add_EditUserForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.LoggingTime.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.LogHistoryForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.LoginForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.MainForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.TaskManagerForm.resources
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManager.WinForms.UserManagmentForm.resources
+C:\Users\Stoyan\Desktop\TaskManagaerADO\TaskManagaerADO\bin\Debug\TaskManagaerADO.exe.config
+C:\Users\Stoyan\Desktop\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.exe
+C:\Users\Stoyan\Desktop\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\TMLib.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\bin\Debug\TMLib.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TaskManagaerADO\obj\Debug\TaskManagaerADO.csprojResolveAssemblyReference.cache

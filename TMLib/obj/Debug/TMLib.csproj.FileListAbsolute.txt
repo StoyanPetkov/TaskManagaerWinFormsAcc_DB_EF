@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TMLib\bin\Debug\TMLib.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TMLib\bin\Debug\TMLib.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TMLib\obj\Debug\TMLib.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TMLib\obj\Debug\TMLib.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\TaskManagaerADO\TMLib\obj\Debug\TMLib.csprojResolveAssemblyReference.cache
